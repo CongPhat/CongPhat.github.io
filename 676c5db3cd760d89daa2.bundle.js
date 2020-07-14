@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{520:function(n,e,t){"use strict";t.r(e);var s=t(0),a=t.n(s),c=t(521),o=t.n(c).a.posts;e.default=function(){return a.a.createElement("section",{className:o},"123")}},521:function(n,e,t){}}]);
