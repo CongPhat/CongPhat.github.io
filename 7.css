@@ -2,7 +2,7 @@
 
 .search{padding:3px 10px !important;border-radius:3px !important;background:transparent !important;margin-right:5px !important;border:none !important}.search .ant-input{background:transparent !important}.search-wrapper{width:30% !important;padding:3px 10px !important;border-radius:3px !important;background:transparent !important;display:flex;align-items:center;border:1px solid #d9d9d9}.search-wrapper i{color:gray}
 
-.donut{width:14px;height:12px;border-radius:50%;border:2px solid rgba(151,159,208,0.3);border-top-color:gray;animation:1.5s spin infinite linear}.donut.multi{border-bottom-color:gray}@keyframes spin{to{transform:rotate(360deg)}}
+.donut{width:14px;height:12px;border-radius:50%;border:2px solid rgba(151,159,208,0.3);border-top-color:gray;animation:0.7s spin infinite linear}.donut.multi{border-bottom-color:gray}@keyframes spin{to{transform:rotate(360deg)}}
 
 
 /*# sourceMappingURL=7.css.map*/
