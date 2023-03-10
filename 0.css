@@ -1,0 +1,22 @@
+.ant-carousel {
+  width: 100% !important;
+}
+
+.carousel-user {
+  width: 100% !important;
+}
+.carousel-user .slick-dots li {
+  width: auto !important;
+  margin: 0 4px;
+}
+.carousel-user .slick-dots li button {
+  width: 8px;
+  height: 8px;
+  background: var(--color-primary-500);
+  border-radius: 50%;
+}
+.carousel-user .slick-dots .slick-active button {
+  background: var(--color-primary-500) !important;
+}
+
+/*# sourceMappingURL=0.css.map*/

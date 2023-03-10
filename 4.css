@@ -1,0 +1,89 @@
+:root {
+  --color-blue-button: rgb(83, 146, 249);
+  --color-blue-button-hover: rgba(83, 146, 249, 0.8);
+  --color-gray-icon: #8c8b8b;
+  --color-red: rgb(225, 45, 45);
+  --color-text-root: #333;
+  --color-gray-600: #344054;
+  --color-primary-50: #F2FFF9;
+  --color-primary-500: #10975B;
+}
+
+.input-password-antd {
+  padding: 0 11px;
+  border-radius: 4px;
+  background: transparent;
+}
+.input-password-antd .ant-input {
+  background: transparent;
+  z-index: 20;
+  padding-top: 20px !important;
+  padding-bottom: 4px !important;
+  font-size: 14px;
+  color: #98A2B3;
+  font-weight: 400;
+}
+.input-password-antd .ant-input-suffix {
+  margin-top: 15px;
+}
+
+.ant-input-affix-wrapper:focus, .ant-input-affix-wrapper-focused {
+  box-shadow: none;
+  border: 1px solid #D0D5DD;
+}
+
+.ant-input-affix-wrapper:not(.ant-input-affix-wrapper-disabled):hover {
+  border: 1px solid #D0D5DD;
+}
+
+.ant-input-affix-wrapper:not(.ant-input-affix-wrapper-disabled):hover {
+  z-index: 20;
+}
+
+.ant-input-affix-wrapper-status-error:not(.ant-input-affix-wrapper-disabled):not(.ant-input-affix-wrapper-borderless).ant-input-affix-wrapper, .ant-input-affix-wrapper-status-error:not(.ant-input-affix-wrapper-disabled):not(.ant-input-affix-wrapper-borderless).ant-input-affix-wrapper:hover {
+  background: none !important;
+}
+
+.ant-input-affix-wrapper-status-error:not(.ant-input-affix-wrapper-disabled):not(.ant-input-affix-wrapper-borderless).ant-input-affix-wrapper:focus, .ant-input-affix-wrapper-status-error:not(.ant-input-affix-wrapper-disabled):not(.ant-input-affix-wrapper-borderless).ant-input-affix-wrapper-focused {
+  box-shadow: none !important;
+}
+:root {
+  --color-blue-button: rgb(83, 146, 249);
+  --color-blue-button-hover: rgba(83, 146, 249, 0.8);
+  --color-gray-icon: #8c8b8b;
+  --color-red: rgb(225, 45, 45);
+  --color-text-root: #333;
+  --color-gray-600: #344054;
+  --color-primary-50: #F2FFF9;
+  --color-primary-500: #10975B;
+}
+
+.ant-picker {
+  border-radius: 4px !important;
+}
+
+.ant-picker-input {
+  z-index: 15;
+  height: 100%;
+  padding-top: 20px;
+}
+.ant-picker-input input {
+  height: 100%;
+  background: transparent;
+  z-index: 20;
+  padding-bottom: 4px !important;
+  font-size: 14px;
+  color: #98A2B3;
+  font-weight: 400;
+}
+
+.ant-picker-focused {
+  box-shadow: none;
+  border: 1px solid #D0D5DD;
+}
+
+.ant-picker:hover, .ant-picker-focused {
+  border: 1px solid #D0D5DD;
+}
+
+/*# sourceMappingURL=4.css.map*/
